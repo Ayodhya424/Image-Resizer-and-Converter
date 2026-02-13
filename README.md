@@ -33,10 +33,11 @@ cd Image-Resizer-and-Converter
 
 
 ## Requirements.txt
+```bash
 flask
 pillow
 pillow-avif-plugin
-
+```
 
 ## Usage
 Run the Flask application:
