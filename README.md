@@ -61,12 +61,6 @@ http://127.0.0.1:5000
 - Download the resized image.
 
 
-
-## License
-This project is licensed under the MIT License.  
-You are free to use, modify, and distribute this software, provided that proper credit is given.  
-See the [LICENSE](LICENSE) file for details.
-
 ## Author
 Developed by **Ayodhay Kushwaha**  
 GitHub: [Ayodhya424](https://github.com/Ayodhya424)
